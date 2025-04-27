@@ -9,4 +9,3 @@ gem "csv"
 gem "base64"
 gem "bigdecimal"
 gem "observer"
-gem "github-pages", group: :jekyll_plugins
